@@ -280,5 +280,180 @@ Level 3
 Question:
 Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
 
+#----------------------------------------#
+
+#----------------------------------------#
+Question 21
+Level 3
+
+Question£º
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. The trace of robot movement is shown as the following:
+UP 5
+DOWN 3
+LEFT 3
+RIGHT 2
+¡­
+The numbers after the direction are steps. Please write a program to compute the distance from current position after a sequence of movement and original point. If the distance is a float, then just print the nearest integer.
+Example:
+If the following tuples are given as input to the program:
+UP 5
+DOWN 3
+LEFT 3
+RIGHT 2
+Then, the output of the program should be:
+2
+
+#----------------------------------------#
+
+#----------------------------------------#
+Question 22
+Level 3
+
+Question:
+Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically. 
+Suppose the following input is supplied to the program:
+New to Python or choosing between Python 2 and Python 3? Read Python 2 or Python 3.
+Then, the output should be:
+2:2
+3.:1
+3?:1
+New:1
+Python:5
+Read:1
+and:1
+between:1
+choosing:1
+or:2
+to:1
+
+#----------------------------------------#
+
+#----------------------------------------#
+Question 23
+level 1
+
+Question:
+    Write a method which can calculate square value of number
+
+Question 24
+Level 1
+
+Question:
+    Python has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But Python has a built-in document function for every built-in functions.
+    Please write a program to print some Python built-in functions documents, such as abs(), int(), raw_input()
+    And add document for your own function
+   
+ #----------------------------------------#
+
+#----------------------------------------#
+Question 25
+Level 1
+
+Question:
+    Define a class, which have a class parameter and have a same instance parameter.
+    
+    #----------------------------------------#
+
+#----------------------------------------#
+Question:
+Define a function which can compute the sum of two numbers.
+
+#----------------------------------------#
+Question:
+Define a function that can convert a integer into a string and print it in console.
+
+#----------------------------------------#
+Question:
+Define a function that can convert a integer into a string and print it in console.
+Question:
+Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.
+
+Question:
+Define a function that can accept two strings as input and concatenate them and then print it in console.
+
+Question:
+Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.
+
+
+Question:
+Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".
+
+Question:
+Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.
+
+Question:
+Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.
+
+Question:
+Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.
+
+Question:
+Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the keys only.
+
+Question:
+Define a function which can generate and print a list where the values are square of numbers between 1 and 20 (both included).
+
+Question:
+Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the first 5 elements in the list.
+
+Question:
+Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the last 5 elements in the list.
+
+Question:
+Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print all values except the first 5 elements in the list.
+
+Question:
+Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included). 
+
+Question:
+With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line. 
+
+Question:
+Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10). 
+
+Question:
+Write a program which accepts a string as input to print "Yes" if the string is "yes" or "YES" or "Yes", otherwise print "No". 
+
+Question:
+Write a program which can filter even numbers in a list by using filter function. The list is: [1,2,3,4,5,6,7,8,9,10].
+
+Question:
+Write a program which can map() to make a list whose elements are square of elements in [1,2,3,4,5,6,7,8,9,10].
+
+Question:
+Write a program which can map() and filter() to make a list whose elements are square of even number in [1,2,3,4,5,6,7,8,9,10].
+
+Question:
+Write a program which can filter() to make a list whose elements are even number between 1 and 20 (both included).
+
+Question:
+Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included).
+
+Question:
+Define a class named American which has a static method called printNationality.
+
+Question:
+Define a class named American and its subclass NewYorker. 
+
+Question:
+Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area. 
+
+Question:
+Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area. 
+
+Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.
+
+Please raise a RuntimeError exception.
+
+#----------------------------------------#
+Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+#----------------------------------------#
+Define a custom exception class which takes a string message as attribute.
+
+Question:
+
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+
 
 
